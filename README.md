@@ -7,7 +7,7 @@ Proposed solution for SCDF X IBM Lifesavers' Innovation Challenge: Call for Code
 1. [Pitch Video](#pitch-video)
 1. [Architecture](#architecture)
 1. [Detailed Solution](#detailed-solution)
-1. [Project Roadmap](#Project-Roadmap-(Operations Scaling))
+1. [Project Roadmap](#Project-Roadmap)
 1. [Getting Started](#getting-started)
 1. [Built with](#built-with)
 1. [Authors](#Team-Members)
@@ -36,7 +36,7 @@ Our team, Pascal Solutions, is proposing our idea known as Twinlink to revolutio
 ## Detailed Solution
 
 
-## Project Roadmap (Operations Scaling)
+## Project Roadmap
 
 <img src="https://github.com/PascalSolutions-Twinlink-SCDFXIBM/README.md/blob/master/Stages.png" alt="Roadmap" />
 
