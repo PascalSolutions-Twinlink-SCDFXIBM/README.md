@@ -10,7 +10,7 @@ Proposed solution for SCDF X IBM Lifesavers' Innovation Challenge: Call for Code
 1. [Project Roadmap](#Project-Roadmap)
 1. [Getting Started](#getting-started)
 1. [Built with](#built-with)
-1. [Authors](#Team-Members)
+1. [Authors](#authors)
 1. [Acknowledgments](#acknowledgments)
 
 
@@ -46,7 +46,7 @@ Our team, Pascal Solutions, is proposing our idea known as Twinlink to revolutio
 ## Built With
 
 
-## Team Members
+## Authors
 
 <img src="https://github.com/PascalSolutions-Twinlink-SCDFXIBM/README.md/blob/master/Li%20Long.jpg" alt="Li Long" width="200" height="200" />
 Chan Li Long
