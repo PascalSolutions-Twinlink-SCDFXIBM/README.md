@@ -1,5 +1,50 @@
 # Pascal Solutions
-readme.md
+Proposed solution for SCDF X IBM Lifesavers' Innovation Challenge: Call for Code 2020.
+
+## Contents
+
+1. [Short Description](#short-description)
+1. [Pitch Video](#pitch-video)
+1. [Architecture](#architecture)
+1. [Detailed Solution](#detailed-solution)
+1. [Project Roadmap](#Project-Roadmap-(Operations Scaling))
+1. [Getting Started](#getting-started)
+1. [Built with](#built-with)
+1. [Authors](#Team-Members)
+1. [Acknowledgments](#acknowledgments)
+
+
+## Short Description
+
+In the current situation, accidents and disasters are reported through traditional means, such as "Break Glass" fire alarms and emergency phone calls. These methods have substantial problems, such as high false alarm rate from single point of information, low success rate in community response from reporting lag-time, and high injury and fatality rate due to oversight in critical context.
+
+As the Internet of Things (IoT) and cloud computing get more prevalent and data extraction becomes a norm, there is a huge underlying potential for civil defence teams to leverage on these technologies to serve as an alternative in the entire detection to intervention process.
+
+Our team, Pascal Solutions, is proposing our idea known as Twinlink to revolutionise the entire process from detection to intervention by the Singapore Civil Defence Force (SCDF). 
+
+1. Data will be collected by building management's IoT devices such as CCTVs and smoke detectors.
+2. These data will be pumped to Twinlink's Digital Twin Storage, which utilises IBM cloud object to store the data.
+3. Twinlink's Wardens.ai will use IBM Watson to serve as digital wardens to detect anomalies from a real-time sensor network.
+4. If anomalies are detected Twinlink's Digital Twin Gateway will use IBM Cloudfoundry to instantly activate critical data pipelines to allow SCDF to access the data for emergency responses.
+
+## Pitch Video
+
+## Architecture
+
+<img src="https://github.com/PascalSolutions-Twinlink-SCDFXIBM/README.md/blob/master/Architecture.png" alt="Roadmap" />
+
+## Detailed Solution
+
+
+## Project Roadmap (Operations Scaling)
+
+<img src="https://github.com/PascalSolutions-Twinlink-SCDFXIBM/README.md/blob/master/Stages.png" alt="Roadmap" />
+
+## Getting Started
+
+
+## Built With
+
 
 ## Team Members
 
@@ -28,34 +73,6 @@ Soh Woon Hui Patrick
 
 *Nanyang Technological University, Accountancy & Business(Banking & Finance)*
 
-## Description
+## Acknowledgements
 
-In the current situation, accidents and disasters are reported through traditional means, such as "Break Glass" fire alarms and emergency phone calls. These methods have substantial problems, such as high false alarm rate from single point of information, low success rate in community response from reporting lag-time, and high injury and fatality rate due to oversight in critical context.
-
-As the Internet of Things (IoT) and cloud computing get more prevalent and data extraction becomes a norm, there is a huge underlying potential for civil defence teams to leverage on these technologies to serve as an alternative in the entire detection to intervention process.
-
-Our team, Pascal Solutions, is proposing our idea known as Twinlink to revolutionise the entire process from detection to intervention by the Singapore Civil Defence Force (SCDF). 
-
-1. Data will be collected by building management's IoT devices such as CCTVs and smoke detectors.
-2. These data will be pumped to Twinlink's Digital Twin Storage, which utilises IBM cloud object to store the data.
-3. Twinlink's Wardens.ai will use IBM Watson to serve as digital wardens to detect anomalies from a real-time sensor network.
-4. If anomalies are detected Twinlink's Digital Twin Gateway will use IBM Cloudfoundry to instantly activate critical data pipelines to allow SCDF to access the data for emergency responses.
-
-## Pitch Video
-
-## Architecture of Solution
-
-<img src="https://github.com/PascalSolutions-Twinlink-SCDFXIBM/README.md/blob/master/Architecture.png" alt="Roadmap" />
-
-## Detailed Solution
-
-
-## Project Roadmap (Operations Scaling)
-
-<img src="https://github.com/PascalSolutions-Twinlink-SCDFXIBM/README.md/blob/master/Stages.png" alt="Roadmap" />
-
-## Getting Started
-
-
-## What was used to build our solution
-
+* Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
