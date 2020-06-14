@@ -3,27 +3,27 @@ readme.md
 
 ## Team Members
 
-<img src="https://github.com/PascalSolutions-Twinlink-SCDFXIBM/blob/master/Li%20Long.jpg" alt="Li Long" width="200" height="200" />
+<img src="https://github.com/PascalSolutions-Twinlink-SCDFXIBM/README.md/blob/master/Li%20Long.jpg" alt="Li Long" width="200" height="200" />
 Chan Li Long
 
 *Nanyang Technological University, Aerospace Engineering*
 
-<img src="https://github.com/lawrencelwj/PascalSolutions/blob/master/Kwok%20Hong.jpg" alt="Kwok Hong" width="200" height="200" />
+<img src="https://github.com/PascalSolutions-Twinlink-SCDFXIBM/README.md/blob/master/Kwok%20Hong.jpg" alt="Kwok Hong" width="200" height="200" />
 Cheng Kwok Hong
 
 *Nanyang Technological University, Mechanical Engineering*
   
-<img src="https://github.com/lawrencelwj/PascalSolutions/blob/master/Dar%20Win.jpg" alt="Dar Win" width="200" height="200" />
+<img src="https://github.com/PascalSolutions-Twinlink-SCDFXIBM/README.md/blob/master/Dar%20Win.jpg" alt="Dar Win" width="200" height="200" />
 Liew Dar Win
 
 *Nanyang Technological University, Aerospace Engineering*
 
-<img src="https://github.com/lawrencelwj/PascalSolutions/blob/master/Lawrence.png" alt="Lawrence" width="200" height="200" />
+<img src="https://github.com/PascalSolutions-Twinlink-SCDFXIBM/README.md/blob/master/Lawrence.png" alt="Lawrence" width="200" height="200" />
 Lim Wang Jin Lawrence
 
 *Nanyang Technological University, Business(Banking & Finance)*
 
-<img src="https://github.com/lawrencelwj/PascalSolutions/blob/master/Patrick.jpg" alt="Patrick" width="200" height="200" />
+<img src="https://github.com/PascalSolutions-Twinlink-SCDFXIBM/README.md/blob/master/Patrick.jpg" alt="Patrick" width="200" height="200" />
 Soh Woon Hui Patrick
 
 *Nanyang Technological University, Accountancy & Business(Banking & Finance)*
@@ -44,4 +44,4 @@ Our team, Pascal Solutions, is proposing our idea known as Twinlink to revolutio
 
 ## Project Roadmap (Operations Scaling)
 
-<img src="https://github.com/lawrencelwj/PascalSolutions/blob/master/Stages.png" alt="Roadmap" />
+<img src="https://github.com/PascalSolutions-Twinlink-SCDFXIBM/README.md/blob/master/Stages.png" alt="Roadmap" />
