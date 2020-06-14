@@ -24,7 +24,7 @@ As Singapore is transitioning into a Smart Nation, the use of Internet of Things
 
 Pascal Solutions proposes Twinlink, a digital twin gateway that allows emergency services such as Singapore Civil Defence Force (SCDF) to access real-time critical information from the cloud during emergency situations.
 
-1. Data is collected from various sensors within the building and Twinlink Edge allows preprocessing of this data before it is uploaded to IBM Cloud Object Storage.
+1. Data is collected from various sensors within the building and Twinlink Edge performs preprocessing of this data before it is uploaded to IBM Cloud Object Storage.
 2. The data is then delivered to IBM Watson, which performs machine learning analytics to monitor for emergency situations.
 3. IBM Watson will stream the output into Twinlink View for building management to perform analytics and monitoring. Twinlink View is deployed on IBM Cloudfoundry. During normal operations, SCDF will not be able to access this data.
 4. If an emergency is detected, Twinlink Access will automatically create a API pipeline to stream relevant information for SCDF such as the number of occupants, layout geometry of the emergency, Potential Casualty Density Parameters (PCDP) and other data that is critical.
