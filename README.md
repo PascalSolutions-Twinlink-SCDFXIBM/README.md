@@ -37,7 +37,7 @@ Pascal Solutions proposes Twinlink, a digital twin gateway that allows emergency
 
 ## Pitch Video
 
-Click here to watch our Pitch to our Solution - [Pitch Video](https://www.youtube.com/watch?v=brRb-KjMzvU&feature=youtu.be)
+Click here to watch our Pitch to our Solution - [Pitch Video](https://www.youtube.com/watch?v=RNWRSv91cME&feature=youtu.be)
 
 ## Architecture
 
