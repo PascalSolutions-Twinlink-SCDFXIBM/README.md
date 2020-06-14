@@ -38,9 +38,9 @@ As the Internet of Things (IoT) and cloud computing get more prevalent and data 
 Our team, Pascal Solutions, is proposing our idea known as Twinlink to revolutionise the entire process from detection to intervention by the Singapore Civil Defence Force (SCDF). 
 
 1. Data will be collected by building management's IoT devices such as CCTVs and smoke detectors.
-2. These data will be pumped to TwinLink's Digital Twin Storage, which utilises IBM cloud object to store the data.
-3. TwinLink's Wardens.ai will use IBM Watson to serve as digital wardens to detect anomalies from a real-time sensor network.
-4. If anomalies are detected TwinLink's Digital Twin Gateway will use IBM Cloudfoundry to instantly activate critical data pipelines to allow SCDF to access the data for emergency responses.
+2. These data will be pumped to Twinlink's Digital Twin Storage, which utilises IBM cloud object to store the data.
+3. Twinlink's Wardens.ai will use IBM Watson to serve as digital wardens to detect anomalies from a real-time sensor network.
+4. If anomalies are detected Twinlink's Digital Twin Gateway will use IBM Cloudfoundry to instantly activate critical data pipelines to allow SCDF to access the data for emergency responses.
 
 ## Project Roadmap (Operations Scaling)
 
