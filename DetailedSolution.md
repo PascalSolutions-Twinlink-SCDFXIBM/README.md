@@ -46,4 +46,13 @@ Current fire-incident guideline for building fire safety managers:
 
 ### Challenges and Mitigation
 
+**Lack of Surveillance Coverage**
+
+Some premises may have critical areas lacking in CCTV coverage, rending our Wardens.ai intervention ineffective. 
+Digital Twin model can pinpoint these security gaps to authorities or the building management so they can step in to install the necessary surveillance. 
+
+**Cybersecurity Threats**
+
+The increase in connectivity and cross-sector collaboration leads to an increase in potential cybersecurity threats from both internal and external frontiers.
+
 ## Conclusion
