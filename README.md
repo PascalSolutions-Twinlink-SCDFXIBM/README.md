@@ -28,6 +28,9 @@ Soh Woon Hui Patrick
 
 *Nanyang Technological University, Accountancy & Business(Banking & Finance)*
 
+## Architecture of Solution
+
+<img src="https://github.com/PascalSolutions-Twinlink-SCDFXIBM/README.md/blob/master/Architecture.png" alt="Roadmap" />
 
 ## Description
 
