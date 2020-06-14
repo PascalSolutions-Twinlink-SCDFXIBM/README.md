@@ -47,7 +47,7 @@ Our team, Pascal Solutions, is proposing our idea known as Twinlink to revolutio
 
 * [IBM Cloud Object Storage](https://www.ibm.com/sg-en/cloud/object-storage) - Flexible, cost-effective and scalable cloud storage for unstructured data.
 * [IBM Watson](https://www.ibm.com/sg-en/watson) - Powered by the latest innovations in machine learning, Watson is the open, multicloud platform that lets you automate the AI lifecycle.
-* [IBM Cloudfoundry](https://www.ibm.com/sg-en/cloud/cloud-foundry) - Platform that ensures that the build and deploy aspects of coding remain carefully coordinated with any attached services — resulting in quick, consistent and reliable iterating of applications.
+* [IBM Cloudfoundry](https://www.ibm.com/sg-en/cloud/cloud-foundry) - Platform that ensures that the build and deploy aspects of coding remain carefully coordinated with any attached services - resulting in quick, consistent and reliable iterating of applications.
 * [Jupyter Notebook](https://jupyter.org/) - An open source web application that allows you to create and share documents that contain live code, equations, visualizations, and explanatory text.
 * [OpenCV](https://opencv.org/) - Open source computer vision library.
 * [YOLOv3]() - Object detection algorithm.
