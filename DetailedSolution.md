@@ -13,7 +13,16 @@ In 2019, fire in commercial premises accounted for 8.4% of the total incident co
 This is due to large areas & the premises being highly populated, thus difficulty in crowd control management during emergency. Occupants of commercial premises are less aware of evacuation plans, leading to higher chances of entrapment in the event of a fire.
 
 Current fire-incident guideline for building fire safety managers:
-<img src="https://github.com/PascalSolutions-Twinlink-SCDFXIBM/README.md/blob/master/current.jpg"/>
+1st stage alarm
+Raised by -:
+1. Break glass alarm system
+2. Automatic heat/smoke detector system; or
+3. Automatic sprinkler system.
+
+Follow-up: Fire warden of fire floor will investigate the cause of alarm and provide sit-rep
+
+2nd stage alarm
+Commence evacuation upon confirmation of fire situation.
 
 ### Key Issues
 
@@ -34,15 +43,32 @@ Current fire-incident guideline for building fire safety managers:
 
 
 ### Justification
-<img src="https://github.com/PascalSolutions-Twinlink-SCDFXIBM/README.md/blob/master/warden.png"/>
-<img src="https://github.com/PascalSolutions-Twinlink-SCDFXIBM/README.md/blob/master/rapidview2.jpg"/>
-<img src="https://github.com/PascalSolutions-Twinlink-SCDFXIBM/README.md/blob/master/access.jpg"/>
+**Wardens.ai** monitors live CCTV footage and uses its neural network to positively identify fire before pushing situation reports to SCDF for appropriate emergency responses.
+
+Wardens.ai also capture and store real-time information on occupants and fire on IBM Cloud Object Storage for further analysis in Twinlink Rapidview and Twinlink Access.
+
+
+**Twinlink Rapidview** uses a WebGL-based 3D Visualization engine that retrieves stored geometries of the building from the cloud, and overlays critical information necessary for the emergency responders for an interactive access of a digital twin building. 
+
+
+**Twinlink Access** provides an API Gateway to deliver critical data parameters for emergency services to optimise their resource allocation strategy
+
 
 ### Impacts
+**Wardens.ai** - For every false alarm detected, it can mean a cost of S$664 saved - Reduced False Alarm Rate & Reporting Delay
+
+
+**Twinlink Rapidview** - For every 3 minutes shaved, it can mean 1 more life saved - Greater Precision in Rescue Efforts
+
+**Twinlink Access** - For every EMS team allocated efficiently, it can mean 1 more live saved - Greater Allocation Efficiency of EMS Resources
+
+
 
 ## Implementation
 
 ### Timeline
+
+<img src="https://github.com/PascalSolutions-Twinlink-SCDFXIBM/README.md/blob/master/Stages.png" alt="Roadmap" />
 
 ### Challenges and Mitigation
 
