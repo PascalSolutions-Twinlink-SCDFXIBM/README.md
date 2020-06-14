@@ -52,7 +52,7 @@ Our team, Pascal Solutions, is proposing our idea known as Twinlink to revolutio
 * [IBM Cloudfoundry](https://www.ibm.com/sg-en/cloud/cloud-foundry) - Platform that ensures that the build and deploy aspects of coding remain carefully coordinated with any attached services - resulting in quick, consistent and reliable iterating of applications.
 * [Jupyter Notebook](https://jupyter.org/) - An open source web application that allows you to create and share documents that contain live code, equations, visualizations, and explanatory text.
 * [OpenCV](https://opencv.org/) - Open source computer vision library.
-* [YOLOv3]() - Object detection algorithm.
+* [YOLOv3](https://pjreddie.com/darknet/yolo/) - Object detection algorithm.
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/) Micro web framework for Python.
 * [xeogl](https://xeogl.org/) Data-driven WebGL-based 3D visualization engine from xeolabs.
 
