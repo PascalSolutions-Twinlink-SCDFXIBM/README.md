@@ -45,6 +45,10 @@ Our team, Pascal Solutions, is proposing our idea known as Twinlink to revolutio
 
 ## Built With
 
+* [IBM Cloud Object Storage]
+* [IBM Watson]
+* [IBM Cloudfoundry]
+
 
 ## Authors
 
