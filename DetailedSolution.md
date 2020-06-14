@@ -1,5 +1,10 @@
 # Detailed Solution
 
+1. [Situational Analysis](#Situational-Analysis)
+1. [Strategy & Recommendations](#Strategy-&-Recommendations)
+1. [Implementation](#Implementation)
+1. [Conclusion](#Conclusion)
+
 ## Situational Analysis
 
 ### Situation
