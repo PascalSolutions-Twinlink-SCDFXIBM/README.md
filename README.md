@@ -45,6 +45,10 @@ Pascal Solutions proposes Twinlink, a digital twin gateway that allows emergency
 
 ## Getting Started
 
+Step-by-Step Instructions in Order:
+* [Twinlink Edge](https://github.com/PascalSolutions-Twinlink-SCDFXIBM/EdgeComputing)
+* [Twinlink Watson](https://github.com/PascalSolutions-Twinlink-SCDFXIBM/yolo_fire_detection)
+* [Twinlink View](https://github.com/PascalSolutions-Twinlink-SCDFXIBM/pythonflaskpascal)
 
 ## Built With
 
