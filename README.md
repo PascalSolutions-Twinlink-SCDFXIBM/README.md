@@ -18,16 +18,17 @@ Proposed solution for SCDF X IBM Lifesavers' Innovation Challenge: Call for Code
 
 ## Short Description
 
-Currently, accidents and disasters are reported through traditional means, such as "Break Glass" fire alarms, smoke detectors and emergency phone calls. These methods have substantial problems, such as high false alarm rate from single point of information, low success rate in community response from reporting lag-time, and high injury and fatality rate due to oversight in critical context.
+Currently, accidents and disasters are reported through traditional means, such as "Break Glass" fire alarms, smoke detectors and emergency phone calls. These methods have substantial problems, such as high false alarm rate from single point of information, low success rate in community response from reporting lag-time, and high injury and fatality rate due to lack of critical context data.
 
 As Singapore is transitioning into a Smart Nation, the use of Internet of Things (IoT) sensors and cloud computing are increasingly prevalent for building/district management. Digital twins are created that virtually represents buildings in real time, which is currently used for monitoring and analytics. However, this rich source of data is not available to Emergency Services. Thus, there is a huge underlying potential for emergency services to leverage on these technologies for improved response times, operations management and optimisation of resources.
 
-Our team, Pascal Solutions, is proposing our idea known as Twinlink to revolutionise the entire process from detection to intervention by the Singapore Civil Defence Force (SCDF). 
+Pascal Solutions proposes Twinlink, a digital twin gateway that allows emergency services such as Singapore Civil Defence Force (SCDF) to access real-time critical information from the cloud during emergency situations.
 
-1. Data will be collected by building management's IoT devices such as CCTVs and smoke detectors.
-2. These data will be pumped to Twinlink's Digital Twin Storage, which utilises IBM cloud object to store the data.
-3. Twinlink's Wardens.ai will use IBM Watson to serve as digital wardens to detect anomalies from a real-time sensor network.
-4. If anomalies are detected Twinlink's Digital Twin Gateway will use IBM Cloudfoundry to instantly activate critical data pipelines to allow SCDF to access the data for emergency responses.
+1. Data is collected from various sensors within the building and Twinlink Edge allows preprocessing of this data before it is uploaded to IBM Cloud Object Storage.
+2. The data is then delivered to IBM Watson, which performs machine learning analytics to monitor for emergency situations.
+3. IBM Watson will stream the output into Twinlink View for building management to perform analytics and monitoring. Twinlink View is deployed on IBM Cloudfoundry. During normal operations, SCDF will not be able to access this data.
+4. If an emergency is detected, Twinlink Access will automatically create a API pipeline to stream relevant information for SCDF such as the number of occupants, layout geometry of the emergency, Potential Casualty Density Parameters (PCDP) and other data that is critical.
+5. Twinlink View will provision a temporary digital twin for emergency responders to rapidly access critical data en-route to site, using a web-based app.
 
 ## Pitch Video
 
