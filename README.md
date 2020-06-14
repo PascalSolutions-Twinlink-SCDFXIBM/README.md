@@ -51,27 +51,27 @@ Our team, Pascal Solutions, is proposing our idea known as Twinlink to revolutio
 
 - Chan Li Long
 
-*Nanyang Technological University, Aerospace Engineering*
+  *Nanyang Technological University, Aerospace Engineering*
 
 
 - Cheng Kwok Hong
 
-*Nanyang Technological University, Mechanical Engineering*
+  *Nanyang Technological University, Mechanical Engineering*
   
 
 - Liew Dar Win
 
-*Nanyang Technological University, Aerospace Engineering*
+  *Nanyang Technological University, Aerospace Engineering*
 
 
 - Lim Wang Jin Lawrence
 
-*Nanyang Technological University, Business(Banking & Finance)*
+  *Nanyang Technological University, Business(Banking & Finance)*
 
 
 - Soh Woon Hui Patrick
 
-*Nanyang Technological University, Accountancy & Business(Banking & Finance)*
+  *Nanyang Technological University, Accountancy & Business(Banking & Finance)*
 
 ## Acknowledgements
 
