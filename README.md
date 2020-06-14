@@ -18,9 +18,9 @@ Proposed solution for SCDF X IBM Lifesavers' Innovation Challenge: Call for Code
 
 ## Short Description
 
-In the current situation, accidents and disasters are reported through traditional means, such as "Break Glass" fire alarms and emergency phone calls. These methods have substantial problems, such as high false alarm rate from single point of information, low success rate in community response from reporting lag-time, and high injury and fatality rate due to oversight in critical context.
+Currently, accidents and disasters are reported through traditional means, such as "Break Glass" fire alarms, smoke detectors and emergency phone calls. These methods have substantial problems, such as high false alarm rate from single point of information, low success rate in community response from reporting lag-time, and high injury and fatality rate due to oversight in critical context.
 
-As the Internet of Things (IoT) and cloud computing get more prevalent and data extraction becomes a norm, there is a huge underlying potential for civil defence teams to leverage on these technologies to serve as an alternative in the entire detection to intervention process.
+As Singapore is transitioning into a Smart Nation, the use of Internet of Things (IoT) sensors and cloud computing are increasingly prevalent for building/district management. Digital twins are created that virtually represents buildings in real time, which is currently used for monitoring and analytics. However, this rich source of data is not available to Emergency Services. Thus, there is a huge underlying potential for emergency services to leverage on these technologies for improved response times, operations management and optimisation of resources.
 
 Our team, Pascal Solutions, is proposing our idea known as Twinlink to revolutionise the entire process from detection to intervention by the Singapore Civil Defence Force (SCDF). 
 
