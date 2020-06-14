@@ -13,7 +13,7 @@ In 2019, fire in commercial premises accounted for 8.4% of the total incident co
 This is due to large areas & the premises being highly populated, thus difficulty in crowd control management during emergency. Occupants of commercial premises are less aware of evacuation plans, leading to higher chances of entrapment in the event of a fire.
 
 Current fire-incident guideline for building fire safety managers:
-<img src="https://github.com/PascalSolutions-Twinlink-SCDFXIBM/README.md/blob/master/" alt="" />
+<img src="https://github.com/PascalSolutions-Twinlink-SCDFXIBM/README.md/blob/master/warden.png" "alt=warden" />
 
 ### Key Issues
 
