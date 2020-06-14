@@ -82,3 +82,5 @@ Digital Twin model can pinpoint these security gaps to authorities or the buildi
 The increase in connectivity and cross-sector collaboration leads to an increase in potential cybersecurity threats from both internal and external frontiers.
 
 ## Conclusion
+
+![conclusion](4.jpeg)
