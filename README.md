@@ -28,10 +28,6 @@ Soh Woon Hui Patrick
 
 *Nanyang Technological University, Accountancy & Business(Banking & Finance)*
 
-## Architecture of Solution
-
-<img src="https://github.com/PascalSolutions-Twinlink-SCDFXIBM/README.md/blob/master/Architecture.png" alt="Roadmap" />
-
 ## Description
 
 In the current situation, accidents and disasters are reported through traditional means, such as "Break Glass" fire alarms and emergency phone calls. These methods have substantial problems, such as high false alarm rate from single point of information, low success rate in community response from reporting lag-time, and high injury and fatality rate due to oversight in critical context.
@@ -45,6 +41,21 @@ Our team, Pascal Solutions, is proposing our idea known as Twinlink to revolutio
 3. Twinlink's Wardens.ai will use IBM Watson to serve as digital wardens to detect anomalies from a real-time sensor network.
 4. If anomalies are detected Twinlink's Digital Twin Gateway will use IBM Cloudfoundry to instantly activate critical data pipelines to allow SCDF to access the data for emergency responses.
 
+## Pitch Video
+
+## Architecture of Solution
+
+<img src="https://github.com/PascalSolutions-Twinlink-SCDFXIBM/README.md/blob/master/Architecture.png" alt="Roadmap" />
+
+## Detailed Solution
+
+
 ## Project Roadmap (Operations Scaling)
 
 <img src="https://github.com/PascalSolutions-Twinlink-SCDFXIBM/README.md/blob/master/Stages.png" alt="Roadmap" />
+
+## Getting Started
+
+
+## What was used to build our solution
+
