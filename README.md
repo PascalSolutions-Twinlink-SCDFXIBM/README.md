@@ -37,7 +37,7 @@ Pascal Solutions proposes Twinlink, a digital twin gateway that allows emergency
 <img src="https://github.com/PascalSolutions-Twinlink-SCDFXIBM/README.md/blob/master/Architecture.png" alt="Roadmap" />
 
 ## Detailed Solution
-
+[Detailed Solution](https://github.com/PascalSolutions-Twinlink-SCDFXIBM/README.md/blob/master/DetailedSolution.md)
 
 ## Project Roadmap
 
